@@ -1,0 +1,12 @@
+C:\Dot.net\TestHarness\TestHarness\UtilityFunctions\bin\Debug\net7.0\UtilityFunctions.deps.json
+C:\Dot.net\TestHarness\TestHarness\UtilityFunctions\bin\Debug\net7.0\UtilityFunctions.dll
+C:\Dot.net\TestHarness\TestHarness\UtilityFunctions\bin\Debug\net7.0\UtilityFunctions.pdb
+C:\Dot.net\TestHarness\TestHarness\UtilityFunctions\obj\Debug\net7.0\UtilityFunctions.csproj.AssemblyReference.cache
+C:\Dot.net\TestHarness\TestHarness\UtilityFunctions\obj\Debug\net7.0\UtilityFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dot.net\TestHarness\TestHarness\UtilityFunctions\obj\Debug\net7.0\UtilityFunctions.AssemblyInfoInputs.cache
+C:\Dot.net\TestHarness\TestHarness\UtilityFunctions\obj\Debug\net7.0\UtilityFunctions.AssemblyInfo.cs
+C:\Dot.net\TestHarness\TestHarness\UtilityFunctions\obj\Debug\net7.0\UtilityFunctions.csproj.CoreCompileInputs.cache
+C:\Dot.net\TestHarness\TestHarness\UtilityFunctions\obj\Debug\net7.0\UtilityFunctions.dll
+C:\Dot.net\TestHarness\TestHarness\UtilityFunctions\obj\Debug\net7.0\refint\UtilityFunctions.dll
+C:\Dot.net\TestHarness\TestHarness\UtilityFunctions\obj\Debug\net7.0\UtilityFunctions.pdb
+C:\Dot.net\TestHarness\TestHarness\UtilityFunctions\obj\Debug\net7.0\ref\UtilityFunctions.dll
